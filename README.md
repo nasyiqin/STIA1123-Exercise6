@@ -13,3 +13,7 @@
 [2]: https://user-images.githubusercontent.com/55252513/78765736-fb95d500-79ba-11ea-9d46-145f78c207b5.png
 
 ##### (d) Status memory of the array studDegree after Student’s objects are created. 
+
+![alt text][3]
+
+[3]: https://user-images.githubusercontent.com/55252513/78772896-03f30d80-79c5-11ea-9ca7-73004ee36a87.png
