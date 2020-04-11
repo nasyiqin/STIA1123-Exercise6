@@ -17,3 +17,11 @@
 ![alt text][3]
 
 [3]: https://user-images.githubusercontent.com/55252513/78772896-03f30d80-79c5-11ea-9ca7-73004ee36a87.png
+
+## Task 2
+
+##### (a) Output
+
+![alt text][4]
+
+[4]: https://user-images.githubusercontent.com/55252513/79039995-e1a4fe00-7c17-11ea-9776-a9b365d7f848.PNG
