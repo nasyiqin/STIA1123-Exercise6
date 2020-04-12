@@ -20,8 +20,24 @@
 
 ## Task 2
 
-##### (a) Output
+##### Output
 
 ![alt text][4]
 
 [4]: https://user-images.githubusercontent.com/55252513/79039995-e1a4fe00-7c17-11ea-9776-a9b365d7f848.PNG
+
+## Task 3
+
+##### Output
+
+![alt text][5]
+
+[5]: https://user-images.githubusercontent.com/55252513/79065664-b63c1500-7ce4-11ea-94e4-27b9587c2191.PNG
+
+## Task 4
+
+##### Output
+
+![alt text][6]
+
+[6]: https://user-images.githubusercontent.com/55252513/79065665-bb995f80-7ce4-11ea-99fb-444ed23e018c.PNG
